@@ -1,0 +1,46 @@
+body{
+
+    background-image: url("assets/bg_image.jpg");
+    background-size: cover;
+    color: rgb(246, 128, 128);
+    text-align: center;
+    
+
+
+}
+
+.join-button{
+
+    padding: 10px 16px;
+    border: 2px dashed cyan;
+    border-radius: 10px;
+    background: white;
+
+}
+
+
+.spacefont1{
+  font-family: SpaceP;
+  font-size: 50px;
+  font-weight: lighter;
+}
+
+
+.spacefont2{
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+    font-family:SpaceP;
+    src: url(assets/SpacePatrol.ttf);
+}
+
+
+.cta{
+    text-decoration: underline antiquewhite ;
+
+
+}
