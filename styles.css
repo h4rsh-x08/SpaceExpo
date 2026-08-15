@@ -1,6 +1,6 @@
 body{
 
-    background-image: url("assets/bg_image.jpg");
+    background-image: url("assets/giphy.gif");
     background-size: cover;
     color: rgb(246, 128, 128);
     text-align: center;
@@ -42,5 +42,12 @@ body{
 .cta{
     text-decoration: underline antiquewhite ;
 
+
+}
+
+#head-img{
+
+    width:100px;
+    height: auto;
 
 }
