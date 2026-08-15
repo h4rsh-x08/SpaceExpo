@@ -1,20 +1,31 @@
+
 body{
 
-    background-image: url("assets/bg_image.jpg");
+    margin: 0;
+    padding: 0%;
+
+}
+.hero{
+
+    background-image: url("assets/bgimg.gif");
     background-size: cover;
-    color: rgb(246, 128, 128);
+    color: #B13BFF;
     text-align: center;
-    
+    height: 520px;
+    margin-bottom: 0;
+    padding-bottom: 0%;
 
 
 }
 
+
 .join-button{
 
     padding: 10px 16px;
-    border: 2px dashed cyan;
+    border: 2px dashed #7965C1;
     border-radius: 10px;
-    background: white;
+    background: #C562AF;
+    color: #483AA0;
 
 }
 
@@ -23,6 +34,7 @@ body{
   font-family: SpaceP;
   font-size: 50px;
   font-weight: lighter;
+  text-shadow: 2px -1px 1px #E3D095;
 }
 
 
@@ -40,7 +52,26 @@ body{
 
 
 .cta{
-    text-decoration: underline antiquewhite ;
+    text-decoration: underline #C562AF ;
+
+
+}
+
+#head-img{
+
+    width:100px;
+    height: auto;
+
+}
+
+#terms{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: #E3D095;
+    background: #725CAD;
+    margin-top: 0;
+    padding: 0%;
+
 
 
 }
